@@ -86,3 +86,5 @@ There are only about 35 instructions to implement.
 RESOURCES:
   - https://tobiasvl.github.io/blog/write-a-chip-8-emulator/
   - https://en.wikipedia.org/wiki/CHIP-8#Opcode_table
+  - https://wiki.libsdl.org/SDL2
+  - https://github.com/kripod/chip8-roms/tree/master
